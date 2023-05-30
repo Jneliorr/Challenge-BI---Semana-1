@@ -2,7 +2,6 @@
 
 Rápida descrição do objetivo de fazer esse projeto
 
-| :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Challenge BI - Semana 1**
 | :label: Tecnologias | PowerBi
